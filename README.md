@@ -9,4 +9,4 @@
 
 [Invision Prototype](https://invis.io/JC4UM5YZS)
 
-[Keynote Prototype](Little-Wing/Keynote/Game-Prototype-new.key)
+[Keynote Prototype](https://www.dropbox.com/s/akr3xry0245it5m/Game-Prototype-new.key?dl=0)
