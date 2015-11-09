@@ -3,7 +3,7 @@
 
 [Concept PDF](https://www.dropbox.com/s/n6y2bw0frn5n10t/Littlewing-Concept.pdf?dl=0)
 
-[User Persona (Minus Image)](Little-Wing/PERSONAS/Images)
+[User Persona (Minus Profile Images)](https://www.dropbox.com/sh/aqrym19tj8m5431/AAAZSeTryiiElGmu9qy06P9Na?dl=0)
 
 [User Research](Little-Wing/QUESTIONAIRE)
 
